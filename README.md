@@ -4,7 +4,7 @@
 - 👀 I'm interested in exploring the endless possibilities of computer science and technology!
 - 🌱 I'm currently diving deep into the realms of machine learning and web development.
 - 💞️ I'm always on the lookout for exciting projects to collaborate on, so if you've got one, count me in!
-- 📫 You can reach out to me via email at www.linkedin.com/in/mahad-zubair-a07709223 or find me on [LinkedIn](www.linkedin.com/in/mahad-zubair-a07709223).
+- 📫 You can reach out to me via email at mahadzubair96@gmail.com or find me on [LinkedIn](www.linkedin.com/in/mahad-zubair-a07709223).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Did you know that the first computer bug was literally a bug? In 1947, Grace Hopper found a moth stuck in a relay of the Harvard Mark II computer, and that's where the term "debugging" came from!
 
