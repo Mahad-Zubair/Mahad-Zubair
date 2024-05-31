@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Mahad Zubair
 
-- 👀 I'm interested in exploring the endless possibilities of computer science and technology!
+- #556DB3 I'm interested in exploring the endless possibilities of computer science and technology!
 - 🌱 I'm currently diving deep into the realms of machine learning and web development.
 - 💞️ I'm always on the lookout for exciting projects to collaborate on, so if you've got one, count me in!
 - 📫 You can reach out to me via email at mahadzubair96@gmail.com or find me on [LinkedIn](www.linkedin.com/in/mahad-zubair-a07709223).
