@@ -1,4 +1,3 @@
-
 # Hi there! 👋 I'm Mahad Zubair
 
 - 👀 I'm interested in exploring the endless possibilities of computer science and technology!
@@ -14,13 +13,24 @@ I'm a passionate computer science student currently sailing through my 7th semes
 
 ## Tech Stack
 
-- Languages: Python, HTML, CSS, C++, SQL, Java
-- Tools: Git, VS Code, Jupyter Notebook, Co-Lab
+- **Languages**:  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+
+- **Tools**:  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/> 
+  <img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" alt="Google Colab" width="40" height="40"/>
 
 ## Projects I'm Proud Of
 
 - **Naive-Bayes-with-Front-End**: An implementation of the Naive Bayes theorem on a dataset, with a front end built using the Stream Lit library.
-- **Tic-Tac-Toe**:  I brought the classic game of Tic-Tac-Toe to life using Python and Pygame! 🎮💻 
+- **Tic-Tac-Toe**: I brought the classic game of Tic-Tac-Toe to life using Python and Pygame! 🎮💻 
 - **Basic-Gym-Fitness-App**: A Java-based application is designed to help fitness enthusiasts of all levels track their workouts, monitor progress, and maintain a healthy lifestyle.
 
 ## Let's Connect!
