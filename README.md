@@ -6,6 +6,7 @@
 - 📫 You can reach out to me via email at mahadzubair96@gmail.com or find me on [LinkedIn](www.linkedin.com/in/mahad-zubair-a07709223).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Did you know that the first computer bug was literally a bug? In 1947, Grace Hopper found a moth stuck in a relay of the Harvard Mark II computer, and that's where the term "debugging" came from!
+- 🚀 Personal Portfolio : https://mahad-zubair-portfolio.netlify.app/
 
 ## About Me
 
